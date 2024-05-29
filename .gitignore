@@ -1,0 +1,4 @@
+# Ignore terraform init config
+.terraform
+ssh_keys
+.terraform.lock.hcl
